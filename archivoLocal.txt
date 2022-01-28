@@ -1,2 +1,6 @@
 archivo local
+<<<<<<< HEAD
 modificacion local
+=======
+modificacion desde remoto
+>>>>>>> 61e0ce858c0e446b428e3bf0632d0c23d769f979
